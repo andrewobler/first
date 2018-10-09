@@ -9,7 +9,7 @@ standard double-sided, double-wide format that can be stapled into an orchestral
 part), but can be used for any situation in which such a format is desired.
 
 FoldM is written in Python 2.7. Its only external dependency is the
-(https://pythonhosted.org/PyPDF2/ "PyPDF2") library for PDF manipulation.
+[PyPDF2](https://pythonhosted.org/PyPDF2/) library for PDF manipulation.
 
 Directories
 ===========
